@@ -1,0 +1,108 @@
+{
+  "contact": [
+    {
+      "name": "Ruslan",
+      "lastName": "Sabitov",
+      "number": "0777123456",
+      "image": "https://resizing.flixster.com/m--kBICH2Goe3VBQTK6mNNGYqls=/300x300/v2/https://flxt.tmsimg.com/assets/p12225872_e_v13_ab.jpg",
+      "department": "JavaScript",
+      "id": 5
+    },
+    {
+      "name": "Khamza",
+      "lastName": "Avazbekov",
+      "number": "0709675429",
+      "image": "https://static.wikia.nocookie.net/naruto/images/3/34/Sasuke_Part_1.jpg/revision/latest/smart/width/250/height/250?cb=20210404192311&path-prefix=ru",
+      "department": "JavaScript",
+      "id": 6
+    },
+    {
+      "name": "Kushbak",
+      "lastName": "Pushka",
+      "number": "055538829",
+      "image": "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png/revision/latest/smart/width/250/height/250?cb=20210214190655&path-prefix=ru",
+      "department": "JavaScript",
+      "id": 7
+    },
+    {
+      "name": "Zebiniso",
+      "lastName": "So cuteee",
+      "number": "0222765432",
+      "image": "https://i.pinimg.com/originals/4f/a6/65/4fa66567c82cd5f8708b2a2e2c160229.jpg",
+      "department": "JavaScript",
+      "id": 8
+    },
+    {
+      "name": "Tolgonai",
+      "lastName": "Baimatova",
+      "number": "0707653487",
+      "image": "https://avatarko.ru/img/kartinka/8/zhivotnye_sobaka_ochki_7238.jpg",
+      "department": "Node js",
+      "id": 9
+    },
+    {
+      "name": "Aizhamal",
+      "lastName": "Subanova",
+      "number": "0777934782",
+      "image": "https://w7.pngwing.com/pngs/481/608/png-transparent-illustration-of-woman-sitting-hijab-muslim-islam-cartoon-drawing-muslim-kids-child-face-photography-thumbnail.png",
+      "department": "JavaScript",
+      "id": 10
+    },
+    {
+      "name": "Kanai",
+      "lastName": "Seidibaliev",
+      "number": "0707654728",
+      "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/100/500/d50.png",
+      "department": "JavaScript",
+      "id": 11
+    },
+    {
+      "name": "Bakyt",
+      "lastName": "Akimov",
+      "number": "0552453860",
+      "image": "https://sun9-6.userapi.com/impg/AfdhhGYKvKaIr-iAtfbFSrGnk1T6FSWn5kLXfQ/mVhxuCa8H50.jpg?size=604x604&quality=96&sign=7671f3ad9a005b9cf4362d3e25785336&type=album",
+      "department": "JavaScript",
+      "id": 12
+    },
+    {
+      "name": "Nursultan",
+      "lastName": "Begaliev",
+      "number": "0779465838",
+      "image": "https://i.playground.ru/e/26ealQ_wH_fXsT8z_rTlpQ.jpeg?1200x1200",
+      "department": "JavaScript",
+      "id": 13
+    },
+    {
+      "name": "Malik",
+      "lastName": "Ispaev",
+      "number": "0505348949",
+      "image": "https://i.pinimg.com/474x/16/b1/09/16b1091fb5ad45447850678da7431a3c.jpg",
+      "department": "JavaScript",
+      "id": 14
+    },
+    {
+      "name": "Ernest",
+      "lastName": "Kudrysh",
+      "number": "0999823882",
+      "image": "https://i.pinimg.com/originals/b1/c8/50/b1c850638e2cac62ae75ea959b31df66.jpg",
+      "department": "JavaScript",
+      "id": 15
+    },
+    {
+      "name": "Islam",
+      "lastName": "Mainazarov",
+      "number": "0502878348",
+      "image": "https://static.wikia.nocookie.net/naruto/images/b/bb/Itachi.png/revision/latest/smart/width/250/height/250?cb=20210225204731&path-prefix=ru",
+      "department": "JavaScript",
+      "id": 16
+    },
+    {
+      "name": "Bekmyrza",
+      "lastName": "recursion",
+      "number": "0707656463",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjhWbB6Ux24TPHjIAHzMcnHcAq2dPZLbu4mwGofMyPeAGgsfLUk5vbLDeklfePOMPvgdQ&usqp=CAU",
+      "department": "JavaScript",
+      "id": 17
+    }
+  ]
+}

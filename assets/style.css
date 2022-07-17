@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #ccc url(./img/qwerty.png) repeat center center ;
+    background-size: cover;
+}
+
+.video-media{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    transform: translate(-50%, -50%);
+}
+
+
+.btn-light {
+    margin: 10px;
+    background-color: rgba(126, 5, 85, 0.75);
+    border: none;
+    color: #fff;
+}
+
+
+.form-control{
+    border: 2px solid rgba(126, 5, 85, 0.75);;
+}
+
+
+.pagination{
+    position: relative;
+    z-index: 1;
+}
